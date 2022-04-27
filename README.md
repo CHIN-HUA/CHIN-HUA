@@ -4,6 +4,9 @@
 
 機率閃電本: https://routledgetextbooks.com/textbooks/9781498755092/resources.php
 
+研究所考古題參考解答: https://eecsmt.com/cs-solution/
+
+
 
 
 

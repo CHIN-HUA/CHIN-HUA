@@ -2,6 +2,9 @@
 
 計算機系統: http://csapp.cs.cmu.edu/3e/code.html
 
+機率閃電本: https://routledgetextbooks.com/textbooks/9781498755092/resources.php
+
+
 
 
 
